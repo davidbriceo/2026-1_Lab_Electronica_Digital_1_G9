@@ -131,7 +131,7 @@ Ejecute los siguientes comandos:
 `gtkwave`
 New tab, abrir el archivo .vcd, poner las señales de su interés:
 
-![Resultado del smoke test en GTKWave](src/img/lab00_demo_gtkwave.png)
+![Resultado del smoke test en GTKWave](src/img/lab00_demo_gtkwave .png)
 
 ---
 
