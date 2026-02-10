@@ -138,63 +138,71 @@ New tab, abrir el archivo .vcd, poner las señales de su interés:
 ### 3.2 Ejercicio 1 (Grupal): Análisis de un sistema digital
 
 #### Descripción
-Seleccione un sistema digital cotidiano (por ejemplo: semáforo, contador, cerradura digital, temporizador) y realice su **análisis funcional**, sin implementar aún lógica secuencial.
+Seleccione un sistema digital cotidiano (por ejemplo: semáforo, contador, cerradura digital, temporizador) y realice su **análisis funcional**, sin implementar aún lógica secuencial ni máquinas de estado.
 
 #### Actividades
-- Identificar:
+- Identificar claramente:
   - Entradas.
   - Salidas.
-- Describir el comportamiento del sistema en lenguaje natural.
-- Proponer un **diagrama de caja negra**.
+- Describir el comportamiento del sistema en **lenguaje natural**.
+- Proponer un **diagrama de caja negra** que represente el sistema.
+- Discutir qué partes del sistema podrían ser:
+  - combinacionales,
+  - secuenciales (solo a nivel conceptual).
 
 Este ejercicio **no requiere código HDL**.
 
 ---
 
-### 3.3 Ejercicio 2 (Grupal): Implementación combinacional básica
+### 3.3 Ejercicio 2 (Grupal): Flujo de diseño digital y abstracción
 
 #### Descripción
-Diseñar e implementar en Verilog un **módulo combinacional simple**, de acuerdo con una especificación dada por el docente.
+A partir del sistema analizado en el ejercicio anterior, describa el **flujo de diseño digital** que seguiría para implementarlo en un laboratorio posterior.
 
-Ejemplos posibles:
-- Comparador.
-- Codificador / decodificador.
-- Lógica de control simple.
+#### Actividades
+- Escribir, en orden, las **etapas del diseño** necesarias para implementar el sistema.
+- Identificar:
+  - qué información se define en cada etapa,
+  - qué decisiones de diseño se deben tomar.
+- Indicar **qué NO se puede resolver aún** sin usar lógica secuencial.
 
-#### Requisitos
-- Describir el módulo en Verilog.
-- Implementar un **testbench**.
-- Verificar el funcionamiento mediante simulación.
+No se debe escribir código HDL en este ejercicio.
 
 ---
 
 ## 4. Descripción del HDL base
 
-Para los módulos combinacionales implementados se debe considerar:
+En esta práctica **no se requiere** la implementación completa de módulos HDL.  
+Sin embargo, el estudiante debe:
 
-- Uso adecuado de `assign` o bloques `always @(*)`.
-- Definición clara de entradas y salidas.
-- Código legible y organizado.
-- Separación entre **módulo de diseño** y **testbench**.
+- Reconocer la estructura general de un módulo Verilog:
+  - definición del módulo,
+  - entradas y salidas,
+  - separación entre diseño y testbench.
+- Comprender la diferencia entre:
+  - **módulo de diseño**,
+  - **testbench**.
 
-El testbench debe incluir:
-- Estímulos representativos.
-- Generación del archivo `.vcd`.
-- Comentarios que expliquen los casos de prueba.
+Estos conceptos serán utilizados formalmente a partir del **Laboratorio 01**.
 
 ---
 
 ## 5. Entregables
 
 - Documentación del laboratorio en el archivo `README.md`.
-- Carpeta `src/` con:
-  - Código Verilog del módulo combinacional.
-  - Testbench correspondiente.
-- Evidencias de simulación (capturas de GTKWave).
-- Diagrama de caja negra del sistema analizado.
-- Demostración básica del funcionamiento durante la sesión de laboratorio.
+- Diagrama de **caja negra** del sistema analizado.
+- Descripción escrita del comportamiento del sistema.
+- Listado del **flujo de diseño digital** propuesto.
+- Evidencia del correcto funcionamiento del entorno de simulación (capturas del smoke test).
+- Demostración corta durante la sesión de laboratorio.
 
 Todos los archivos deben cargarse en el repositorio asignado en **GitHub Classroom**.
+
+---
+
+## Recursos adicionales
+- [Introducción a Verilog HDL](https://www.youtube.com/watch?v=GLfnmc4Vv5U)
+- [¿Qué es el flujo de diseño digital?](https://www.youtube.com/watch?v=GLfnmc4Vv5U)
 
 ---
 
