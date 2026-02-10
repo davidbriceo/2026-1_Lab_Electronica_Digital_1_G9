@@ -86,7 +86,7 @@ Cada laboratorio contará con su respectiva guía y fecha de entrega.
 
 | Semana | Nombre                                   | Guía  | Entrega (GitHub Classroom) | Deadline |
 |------|-------------------------------------------|-------|-----------------------------|----------|
-| 1    | Lab 00 – Inducción y flujo de diseño digital | lab00 | Link                        | TBD      |
+| 1    | Lab 00 – Inducción y flujo de diseño digital | [lab00](https://github.com/davidbriceo/2026-1_Lab_Electronica_Digital_1_G9/tree/main/labs/lab00) | [Link](https://classroom.github.com/a/Yp_CVmX5)   | 17/02/2026      |
 | 2    | Lab 01 – Entorno Linux y simulación HDL     | lab01 | Link                        | TBD      |
 | 3    | Lab 02 – Lógica combinacional               | lab02 | Link                        | TBD      |
 | 4    | Lab 03 – Diseño modular y jerárquico        | lab03 | Link                        | TBD      |
