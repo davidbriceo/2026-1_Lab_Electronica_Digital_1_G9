@@ -72,6 +72,9 @@ En este curso, **todo diseño debe ser simulado** antes de considerarse correcto
 
 ## 3. Procedimiento
 
+### 3.0.0 Conformación de equipos de trabajo
+Ingrese al siguiente link y conformen el equipo de trabajo para trabajar a lo largo de toda la asignatura (3 personas): (Link)[https://docs.google.com/spreadsheets/d/1AF8KfNl_rRJl8J0KweaD9-G15hNrzsRFyL0W1PkbKyw/edit?usp=sharing]
+
 ### 3.0 Instalación del entorno de trabajo
 
 Antes de iniciar los ejercicios del laboratorio, es necesario contar con un entorno básico para el desarrollo y simulación en Verilog.  
