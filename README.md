@@ -87,7 +87,7 @@ Cada laboratorio contará con su respectiva guía y fecha de entrega.
 | Semana | Nombre                                   | Guía  | Entrega (GitHub Classroom) | Deadline |
 |------|-------------------------------------------|-------|-----------------------------|----------|
 | 1    | Lab 00 – Inducción y flujo de diseño digital | [lab00](https://github.com/davidbriceo/2026-1_Lab_Electronica_Digital_1_G9/tree/main/labs/lab00) | [Link](https://classroom.github.com/a/Yp_CVmX5)   | 17/02/2026      |
-| 2    | Lab 01 – Entorno Linux y simulación HDL     | lab01 | Link                        | TBD      |
+| 2    | Lab 01 – Sistemas Numéricos y Señales Digitales    | [lab01](https://github.com/davidbriceo/2026-1_Lab_Electronica_Digital_1_G9/tree/main/labs/lab01) | Link                        | TBD      |
 | 3    | Lab 02 – Lógica combinacional               | lab02 | Link                        | TBD      |
 | 4    | Lab 03 – Diseño modular y jerárquico        | lab03 | Link                        | TBD      |
 | 5    | Lab 04 – Lógica secuencial básica            | lab04 | Link                        | TBD      |
@@ -175,6 +175,7 @@ Cada práctica será evaluada con base en dos componentes:
 
 
 ## Recursos adicionales:
+- [Libro Fundamentos de Sistemas Digitales Floyd](https://drive.google.com/file/d/1G9gvkws5Ki07PLV2FFVLoGkdmUaq_tW7/view?usp=sharing)
 - [Curso Verilog y FPGA en Youtube](https://www.youtube.com/watch?v=GLfnmc4Vv5U&list=PLIyIZGa1sAZqeQJ6Y02b7O8HV0gK25zc2)
 - [Instalación Linux + Windows dualboot en el mismo disco](https://www.youtube.com/watch?v=wIj7sHK0SkQ)
 - [Instalación Linux + Windows en discos diferentes, tenga mucho cuidado](https://www.youtube.com/watch?v=KWVte9WGxGE)
