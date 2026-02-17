@@ -22,6 +22,7 @@ Aquí se publicarán las guías, lineamientos, cronograma y material de apoyo pa
 ## Introducción
 
 [Link préstamo en casa](https://docs.google.com/forms/d/e/1FAIpQLSfT5iicJ0mY-kWmhDDe7pbI3EFQC6DBiX97eUetKS784UjeYw/viewform)
+[Link FPGA Colorlight](https://www.fervicom.com/producto/tarjeta-de-control-receptora-colorlight/?srsltid=AfmBOop5L2KnpznO7XTH_9p69gfeza_5DGTdJ6TIzAXGjiPXV8aQpcHj)
 
 El **Laboratorio de Electrónica Digital I** es un espacio académico orientado a la **introducción al diseño de sistemas digitales**, en coherencia con los contenidos desarrollados en la asignatura magistral.
 
