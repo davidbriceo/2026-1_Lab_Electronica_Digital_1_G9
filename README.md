@@ -21,6 +21,8 @@ Aquí se publicarán las guías, lineamientos, cronograma y material de apoyo pa
 
 ## Introducción
 
+[Link préstamo en casa](https://docs.google.com/forms/d/e/1FAIpQLSfT5iicJ0mY-kWmhDDe7pbI3EFQC6DBiX97eUetKS784UjeYw/viewform)
+
 El **Laboratorio de Electrónica Digital I** es un espacio académico orientado a la **introducción al diseño de sistemas digitales**, en coherencia con los contenidos desarrollados en la asignatura magistral.
 
 El laboratorio busca que el estudiante comprenda y aplique el **flujo básico de diseño digital**, partiendo de la especificación de un problema, pasando por su modelado y descripción en HDL, hasta su verificación mediante simulación.
