@@ -136,17 +136,13 @@ Calcule:
 
 ### 3.3 Parte C – Interpretación de diagrama de tiempo
 
-El docente proporcionará un diagrama de tiempo en clase.
+![Señal](src/img/imagen1.jpg)
 
 A partir del diagrama determine:
 
 - Período
 - Frecuencia
-- Ton
-- Toff
 - Ciclo de trabajo
-
-Explique brevemente (máximo 5 líneas) qué representa físicamente esa señal.
 
 ---
 
