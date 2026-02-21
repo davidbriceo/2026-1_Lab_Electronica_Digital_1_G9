@@ -136,7 +136,7 @@ Calcule:
 
 ### 3.3 Parte C – Interpretación de diagrama de tiempo
 
-![Señal](labs/lab01/src/img/Imagen1.jpg)
+![Señal](src/img/Imagen1.jpg)
 
 A partir del diagrama determine:
 
