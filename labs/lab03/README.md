@@ -146,7 +146,7 @@ Para cada circuito mostrado:
 
 ### Circuitos a analizar
 
-![Circuitos](src/img/Lab03A.jpg)
+![Circuitos](src/img/lab04A.jpg)
 
 **Nota:**  
 No es necesario redibujar los circuitos. Sin embargo, el desarrollo debe mostrar claramente cómo se obtuvo la expresión lógica a partir del diagrama.
