@@ -339,3 +339,7 @@ Problema
 → Tabla de verdad  
 → Expresión lógica  
 → Circuito
+
+# 10. Recursos adicionales
+
+- (Diapositivas clase)[labs/lab03/src/Sesión5y6–EDigital1-7-32.pdf]
