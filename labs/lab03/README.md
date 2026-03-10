@@ -342,4 +342,4 @@ Problema
 
 # 10. Recursos adicionales
 
-- (Diapositivas clase)[labs/lab03/src/Sesión5y6–EDigital1-7-32.pdf]
+- [Diapositivas clase](src/Sesión5y6–EDigital1-7-32.pdf)
