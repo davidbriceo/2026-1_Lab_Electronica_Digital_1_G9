@@ -90,9 +90,9 @@ Cada laboratorio contará con su respectiva guía y fecha de entrega.
 | Semana | Nombre                                   | Guía  | Entrega (GitHub Classroom) | Deadline |
 |------|-------------------------------------------|-------|-----------------------------|----------|
 | 1    | Lab 00 – Inducción y flujo de diseño digital | [lab00](https://github.com/davidbriceo/2026-1_Lab_Electronica_Digital_1_G9/tree/main/labs/lab00) | [Link](https://classroom.github.com/a/Yp_CVmX5)   | 17/02/2026      |
-| 2    | Lab 01 – Sistemas Numéricos y Señales Digitales    | [lab01](https://github.com/davidbriceo/2026-1_Lab_Electronica_Digital_1_G9/tree/main/labs/lab01) | [Link](https://classroom.github.com/a/YpmfVGDw)                        | 03/03/2026      |
-| 3    | Lab 02 – Compuertas Lógicas y Álgebra de Boole        | [lab02](https://github.com/davidbriceo/2026-1_Lab_Electronica_Digital_1_G9/tree/main/labs/lab02) | [Link](https://classroom.github.com/a/ajUf-Mh6)                        | 17/03/2026      |
-| 4    | Lab 03 – Diseño modular y jerárquico / Diagramas de Flujo       | [lab03](https://github.com/davidbriceo/2026-1_Lab_Electronica_Digital_1_G9/tree/main/labs/lab03) | [Link](https://classroom.github.com/a/1cy-pJWy)                       |  24/03/2026     |
+| 2    | Lab 01 – Sistemas Numéricos y Señales Digitales    | [lab01](https://github.com/davidbriceo/2026-1_Lab_Electronica_Digital_1_G9/tree/main/labs/lab01) | [Link](https://classroom.github.com/a/YpmfVGDw)                        | 25/04/2026      |
+| 3    | Lab 02 – Compuertas Lógicas y Álgebra de Boole        | [lab02](https://github.com/davidbriceo/2026-1_Lab_Electronica_Digital_1_G9/tree/main/labs/lab02) | [Link](https://classroom.github.com/a/ajUf-Mh6)                        | 02/05/2026      |
+| 4    | Lab 03 – Diseño modular y jerárquico / Diagramas de Flujo       | [lab03](https://github.com/davidbriceo/2026-1_Lab_Electronica_Digital_1_G9/tree/main/labs/lab03) | [Link](https://classroom.github.com/a/1cy-pJWy)                       |  09/05/2026     |
 | 5    | Lab 04 – Lógica secuencial básica            | lab04 | Link                        | TBD      |
 | 6    | Lab 05 – Máquinas de estados finito (FSM)   | lab05 | Link                        | TBD      |
 | 7    | Lab 06 – FSM aplicadas                      | lab06 | Link                        | TBD      |
