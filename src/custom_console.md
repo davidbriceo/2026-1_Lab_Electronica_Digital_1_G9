@@ -5,7 +5,8 @@ Prioridad 1: Mejorar la terminal
 1. Instalar Zsh + Oh My Zsh
 
 ```
-sudo apt update sudo apt install zsh curl git -y chsh -s $(which zsh)
+sudo apt update
+sudo apt install zsh curl git -y chsh -s $(which zsh)
 ```
 
 Luego instala Oh My Zsh:
