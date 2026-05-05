@@ -178,7 +178,7 @@ Cada práctica será evaluada con base en dos componentes:
 
 
 ## Recursos adicionales:
-- [Instalación de herramientas y plugins para la consola](src/customconsola.md)
+- [Instalación de herramientas y plugins para la consola](src/custom_console.md)
 - [Libro Fundamentos de Sistemas Digitales Floyd](https://drive.google.com/file/d/1G9gvkws5Ki07PLV2FFVLoGkdmUaq_tW7/view?usp=sharing)
 - [Curso Verilog y FPGA en Youtube](https://www.youtube.com/watch?v=GLfnmc4Vv5U&list=PLIyIZGa1sAZqeQJ6Y02b7O8HV0gK25zc2)
 - [Instalación Linux + Windows dualboot en el mismo disco](https://www.youtube.com/watch?v=wIj7sHK0SkQ)
